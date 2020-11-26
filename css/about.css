@@ -1,0 +1,38 @@
+body .top-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  margin-bottom: 10em;
+  background: #1d2400;
+  background: linear-gradient(90deg, rgba(29, 36, 0, 0.4766281513) 0%, #f5bd14 35%, rgba(255, 179, 0, 0.7539390756) 100%);
+  height: 300px;
+  max-width: 100%; }
+  body .top-img h2 {
+    text-align: center; }
+body .about_us {
+  margin-bottom: 12rem; }
+body .company_profile {
+  margin-bottom: 7em; }
+  body .company_profile .cotainer-company_profile table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 1.3em;
+    box-sizing: border-box; }
+    body .company_profile .cotainer-company_profile table tr {
+      text-align: left; }
+      body .company_profile .cotainer-company_profile table tr th {
+        background-color: #c2c2c2;
+        border-bottom: 1px solid #fff;
+        padding: 1em 0.5em;
+        padding-bottom: 1.5em;
+        margin-bottom: 0.5em; }
+      body .company_profile .cotainer-company_profile table tr td {
+        border-bottom: 1px solid #c2c2c2;
+        padding: 1em 2em; }
+body .company_map .container-company_map iframe {
+  width: 100%;
+  max-width: 100%; }
+
+/*# sourceMappingURL=about.css.map */
